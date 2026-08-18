@@ -1,0 +1,6 @@
+@GateKeeper.OrdersApi_HostAddress = http://localhost:5274
+
+GET {{GateKeeper.OrdersApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
